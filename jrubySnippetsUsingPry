@@ -1,0 +1,17 @@
+;; This buffer is for notes you don't want to save, and for Lisp evaluation.
+;; If you want to create a file, visit that file with C-x C-f,
+;; then enter the text in that file's own buffer.
+
+[7] pry(main)> h=java.util.HashMap.new
+=> {}
+[8] pry(main)> h.put(:foo, "bar")
+=> nil
+[9] pry(main)> h.get(:foo)
+=> "bar"
+[10] pry(main)> h.java.class
+=> Module
+[11] pry(main)> h.java_class
+=> class java.util.HashMap
+[12] pry(main)> javax.swing.JOptionPane.showMessageDialog(nil, "Hello World")
+=> nil
+[13] pry(main)> Java::JavaxSwing::JOptionPane.show_message_dialog(nil, "Hello")
