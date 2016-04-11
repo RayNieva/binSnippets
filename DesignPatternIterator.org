@@ -1,0 +1,181 @@
+* Studies in Iterator Design Pattern JRuby 
+
+[9] pry(main)> java.util.Enumeration.object_id
+=> 2302
+[10] pry(main)> java.util.Iterator.methods
+=> [:impl,
+ :new,
+ :[],
+ :append_features,
+ :java_class,
+ :extended,
+ :class_variables,
+ :<=,
+ :public_instance_methods,
+ :class_variable_get,
+ :public_constant,
+ :freeze,
+ :instance_methods,
+ :instance_method,
+ :const_defined?,
+ :to_s,
+ :initialize_copy,
+ :constants,
+ :ancestors,
+ :private_instance_methods,
+ :===,
+ :included_modules,
+
+<page break> --- Press enter to continue ( q<enter> to break ) --- <page break>
+
+ :==,
+ :class_eval,
+ :const_get,
+ :protected_instance_methods,
+ :class_variable_defined?,
+ :name,
+ :private_constant,
+ :<,
+ :hash,
+ :>,
+ :>=,
+ :module_exec,
+ :pretty_print,
+ :protected_method_defined?,
+ :module_eval,
+ :const_missing,
+ :class_exec,
+ :const_set,
+ :private_method_defined?,
+ :public_class_method,
+ :autoload,
+ :<=>,
+
+<page break> --- Press enter to continue ( q<enter> to break ) --- <page break>
+
+ :public_method_defined?,
+ :autoload?,
+ :class_variable_set,
+ :pretty_print_cycle,
+ :include?,
+ :remove_class_variable,
+ :private_class_method,
+ :method_defined?,
+ :include_class,
+ :handle_different_imports,
+ :pry,
+ :java_kind_of?,
+ :__binding__,
+ :pretty_print_instance_variables,
+ :pretty_print_inspect,
+ :public_send,
+ :initialize_clone,
+ :frozen?,
+ :protected_methods,
+ :java_implements,
+ :public_method,
+ :java,
+
+<page break> --- Press enter to continue ( q<enter> to break ) --- <page break>
+
+ :singleton_methods,
+ :untaint,
+ :javafx,
+ :enum_for,
+ :private_methods,
+ :method,
+ :instance_variables,
+ :extend,
+ :instance_variable_set,
+ :respond_to?,
+ :java_name,
+ :respond_to_missing?,
+ :methods,
+ :to_java,
+ :java_package,
+ :singleton_class,
+ :public_methods,
+ :to_enum,
+ :display,
+ :tainted?,
+ :instance_variable_defined?,
+ :untrusted?,
+
+<page break> --- Press enter to continue ( q<enter> to break ) --- <page break>
+
+ :define_singleton_method,
+ :nil?,
+ :!~,
+ :com,
+ :instance_of?,
+ :java_require,
+ :javax,
+ :java_signature,
+ :tap,
+ :java_annotation,
+ :inspect,
+ :send,
+ :pretty_inspect,
+ :trust,
+ :instance_variable_get,
+ :is_a?,
+ :eql?,
+ :untrust,
+ :class,
+ :=~,
+ :org,
+ :taint,
+
+<page break> --- Press enter to continue ( q<enter> to break ) --- <page break>
+
+ :kind_of?,
+ :clone,
+ :initialize_dup,
+ :dup,
+ :!,
+ :equal?,
+ :instance_exec,
+ :object_id,
+ :__id__,
+ :instance_eval,
+ :__send__,
+ :!=]
+[11] pry(main)> java.util.Iterator.object_id
+=> 2306
+[12] pry(main)> ArrayList list = new ArrayList()
+SyntaxError: unexpected tCONSTANT
+ArrayList list = new ArrayList()
+                             ^
+[12] pry(main)> class ArrayIterattor
+[12] pry(main)* def initialize(array)
+[12] pry(main)* @array=array
+[12] pry(main)* @index=0
+[12] pry(main)* end
+[12] pry(main)* def has_next?
+[12] pry(main)* @index<@array.length
+[12] pry(main)* end
+[12] pry(main)* def item
+[12] pry(main)* @array[@index]
+[12] pry(main)* end
+[12] pry(main)* def next_item
+[12] pry(main)* value=@array[@index]
+[12] pry(main)* @index+=1
+[12] pry(main)* value
+[12] pry(main)* end
+[12] pry(main)* end
+=> nil
+[13] pry(main)> array = ['red', 'green', 'blue']
+=> ["red", "green", "blue"]
+[14] pry(main)> i = ArrayIterator.new(array)
+NameError: uninitialized constant ArrayIterator
+from org/jruby/RubyModule.java:2690:in `const_missing'
+[15] pry(main)> i = ArrayIterattor.new(array)
+=> #<ArrayIterattor:0x1763516 @array=["red", "green", "blue"], @index=0>
+[16] pry(main)> while i.has_next?
+[16] pry(main)* puts("item: #{i.next_item}")
+[16] pry(main)* end
+item: red
+item: green
+item: blue
+=> nil
+[17] pry(main)>
