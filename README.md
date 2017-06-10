@@ -14,6 +14,12 @@ Ruby - Inspiration from the Bastards Book of Ruby http://ruby.bastardsbook.com/
 
 - Code developed at Dining Alliance to facilitate data-entry:
   - Contacts Class https://github.com/RayNieva/binSnippets/blob/master/Contacts02-26-14.rb
+  - Aname https://github.com/RayNieva/binSnippets/blob/master/aname.rb
+
+VBA - Built in MS Office in particular Excel
+
+- Code developed at Dining Alliance to facilitate data-entry
+  - Sheet2 Code https://github.com/RayNieva/binSnippets/blob/master/Sheet2Code.vb
 
 
 Python - Inspiration from the Automate The Boring Stuff https://automatetheboringstuff.com/
