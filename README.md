@@ -1,11 +1,19 @@
 # binSnippets
-EXPERIMENTAL - Ruby code, VB snippets and Python using the Contacts Class Object to automate Data Entry into Ditto. Among other things
+EXPERIMENTAL (under on-going dev) - Ruby code, VB snippets and Python using the Contacts Class Object to automate Data Entry into Ditto. Among other things
 
 
 Some  Tools:
 
-Ditto
+Ditto - http://ditto-cp.sourceforge.net/
 
-Ruby
+SQLite - Back end DB to store what goes into the clipboard.
 
-Python - https://automatetheboringstuff.com/
+MS Access - ODBC connect to SQLite (Although Access is not very scalable it is a very  quick and dirty tool to proto-type front end apps). Almost any version will do.
+
+Ruby - Inspiration from the Bastards Book of Ruby http://ruby.bastardsbook.com/
+
+- Code developed at Dining Alliance to facilitate data-entry:
+  - Contacts Class https://github.com/RayNieva/binSnippets/blob/master/Contacts02-26-14.rb
+
+
+Python - Inspiration from the Automate The Boring Stuff https://automatetheboringstuff.com/
