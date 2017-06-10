@@ -3,6 +3,9 @@ EXPERIMENTAL - Ruby code, VB snippets and Python using the Contacts Class Object
 
 
 Some  Tools:
+
 Ditto
+
 Ruby
-Python
+
+Python - https://automatetheboringstuff.com/
