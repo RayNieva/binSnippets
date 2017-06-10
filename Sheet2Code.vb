@@ -356,7 +356,7 @@ Dim ThisString
 Dim FindStr As Integer
 Dim FindStr2 As Integer
 
-ThisString = "101 Prospect St. North Braintree,MA 02184"
+        ThisString = "000 Main St. Somecity,US 99999"
 
 
 FindStr = InStrRev(ThisString, " ", 39)
