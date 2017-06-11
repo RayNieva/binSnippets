@@ -6,14 +6,14 @@ require "c:/users/ray/contacts02-26-14.rb"
 anArray=%w(
 
 raygnieva@rgnterprises.net
-Ray\ Nieva
-10\ Winter\ St.
-Clinton
-MA
-01510
-978-365-7585
-978-763-5277
-raynieva@gmail.com
+Joe\ Blow
+1\ Main\ St.
+SomeTown
+US
+99999
+999-999-9999
+999-999-0000
+joeblow@gmail.com
 Internet Marketer/Developer/VAR
 rgnterprises.net
 
