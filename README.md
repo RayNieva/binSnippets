@@ -1,5 +1,5 @@
 # binSnippets
-EXPERIMENTAL (under on-going dev) - Ruby code, VB snippets and Python using the Contacts Class Object to automate Data Entry into Ditto. Among other things
+EXPERIMENTAL (under on-going dev) - EmacsLisp, Ruby code, VB snippets and Python using the Contacts Class Object to automate Data Entry into Ditto. Among other things
 
 
 Some  Tools:
