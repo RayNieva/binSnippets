@@ -7,9 +7,11 @@ Some  Tools:
 Yasnippet in Emacs - https://www.emacswiki.org/emacs/Yasnippet
 - [.emacs](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/.emacs) Configures into Emacs.
 
-Ditto - http://ditto-cp.sourceforge.net/
+Ditto - http://ditto-cp.sourceforge.net/  A Clipboard Manager with a SQLite DB backend
 
-SQLite - Back end DB to store what goes into the clipboard.
+![Ditto](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/Ditto.jpg)
+
+SQLite - Backend DB to store what goes into the clipboard.
 
 MS Access - ODBC connect to SQLite (Although Access is not very scalable it is a very  quick and dirty tool to proto-type front end apps). Almost any version will do.
 
