@@ -4,6 +4,8 @@ EXPERIMENTAL (under on-going dev) - Ruby code, VB snippets and Python using the 
 
 Some  Tools:
 
+Yasnippet in Emacs - https://www.emacswiki.org/emacs/Yasnippet
+
 Ditto - http://ditto-cp.sourceforge.net/
 
 SQLite - Back end DB to store what goes into the clipboard.
