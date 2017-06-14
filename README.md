@@ -5,6 +5,7 @@ EXPERIMENTAL (under on-going dev) - Ruby code, VB snippets and Python using the 
 Some  Tools:
 
 Yasnippet in Emacs - https://www.emacswiki.org/emacs/Yasnippet
+- [.emacs](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/.emacs) Configures into Emacs.
 
 Ditto - http://ditto-cp.sourceforge.net/
 
