@@ -11,7 +11,7 @@ Ditto - http://ditto-cp.sourceforge.net/  A Clipboard Manager with a SQLite DB b
 
 ![Ditto](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/Ditto.jpg)
 
-SQLite - Backend DB to store what goes into the clipboard.
+[SQLite](https://en.wikipedia.org/wiki/SQLite) - Backend DB to store what goes into the clipboard.
 
 MS Access - ODBC connect to SQLite (Although Access is not very scalable it is a very  quick and dirty tool to proto-type front end apps). Almost any version will do.
 
