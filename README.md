@@ -2,7 +2,7 @@
 EXPERIMENTAL (under on-going dev) - EmacsLisp, Ruby code, VB snippets and Python using the Contacts Class Object to automate Data Entry into Ditto. Among other things
 
 
-Some  Tools:
+### Some  Tools:
 
 Yasnippet in Emacs - https://www.emacswiki.org/emacs/Yasnippet or refer to this awesome tutorial http://ergoemacs.org/emacs/emacs_templates.html. 
 
