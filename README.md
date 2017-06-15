@@ -7,6 +7,8 @@ Some  Tools:
 Yasnippet in Emacs - https://www.emacswiki.org/emacs/Yasnippet
 - [.emacs](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/.emacs) Configures into Emacs.
 
+![Yasnippet](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/Yasnippet.jpg)
+
 Ditto - http://ditto-cp.sourceforge.net/  A Clipboard Manager with a SQLite DB backend
 
 ![Ditto](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/Ditto.jpg)
