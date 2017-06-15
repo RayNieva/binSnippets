@@ -4,7 +4,7 @@ EXPERIMENTAL (under on-going dev) - EmacsLisp, Ruby code, VB snippets and Python
 
 ### Some  Tools:
 
-Yasnippet in Emacs - https://www.emacswiki.org/emacs/Yasnippet or refer to this awesome tutorial http://ergoemacs.org/emacs/emacs_templates.html. 
+Yasnippet in Emacs - https://www.emacswiki.org/emacs/Yasnippet or refer to this awesome tutorial http://ergoemacs.org/emacs/emacs_templates.html. Once mastered improves coding efficiency within the EMACs editing ecosystem by auto code generation on a class/object/function level. 
 
 - [.emacs](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/.emacs) Configures into Emacs.
 
