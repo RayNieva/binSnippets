@@ -1,4 +1,4 @@
-# binSnippets
+# binSnippets - Data Entry and Code Automation at the Line/Function/Class level
 EXPERIMENTAL (under on-going dev) - EmacsLisp, Ruby code, VB snippets and Python using the Contacts Class Object to automate Data Entry into Ditto. Among other things
 
 
