@@ -42,7 +42,7 @@ Python - Inspiration from the Automate The Boring Stuff https://automatetheborin
 - https://github.com/RayNieva/binSnippets/blob/master/mcb.bat
 - https://github.com/RayNieva/binSnippets/blob/master/mcb.pyw
 
-Cloud Based - https://en.wikipedia.org/wiki/Pastebin
+Cloud Based - https://en.wikipedia.org/wiki/Pastebin and/ or https://github.com/blog/1276-welcome-to-a-new-gist
 - Also Pastebin in action! https://pastebin.com/7TNHrD3T
 
 
