@@ -2,9 +2,15 @@
 # mcb.pyw - Saves and loads pieces of text to the clipboard.
 #--snip--
 
+#  py.exe mcb.py save [keyword] -save current context in clipboard
+#  py.exe mcb.py list -list all keys saved before
+#  py.exe mcb.py [keyword] -paste the value related with the keyword to clipboard
+
+
+
 import shelve, pyperclip, sys
 
-mcbShelf = shelve.open('mcb')
+mcbShelf = shelve.open('multiclipboard')
 
 # Save clipboard content.
 if len(sys.argv) == 3 and sys.argv[1].lower() == 'save':
