@@ -35,6 +35,8 @@ VBA - Built in MS Office in particular Excel
 
 ![Basic Workflow](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/BasicConceptofWorkflow.png)
 
+**Other Clipboard Management Solutions**
+
 Python - Inspiration from the Automate The Boring Stuff https://automatetheboringstuff.com/
 
 - https://github.com/RayNieva/binSnippets/blob/master/mcb.bat
