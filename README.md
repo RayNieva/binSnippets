@@ -34,3 +34,4 @@ Python - Inspiration from the Automate The Boring Stuff https://automatetheborin
 
 - https://github.com/RayNieva/binSnippets/blob/master/mcb.bat
 - https://github.com/RayNieva/binSnippets/blob/master/mcb.pyw
+- Also Pastebin in action! https://pastebin.com/7TNHrD3T
