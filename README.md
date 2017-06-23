@@ -20,18 +20,24 @@ MS Access - [ODBC connect to SQLite](http://www.ch-werner.de/sqliteodbc/) (Altho
 
 Ruby - Inspiration from the Bastards Book of Ruby http://ruby.bastardsbook.com/
 
-- Code developed at Dining Alliance to facilitate data-entry:
+- Code developed at Dining Alliance to facilitate data-entry into multiple cloud based systems.
   - Contacts Class https://github.com/RayNieva/binSnippets/blob/master/Contacts02-26-14.rb
   - Aname https://github.com/RayNieva/binSnippets/blob/master/aname.rb
 
 VBA - Built in MS Office in particular Excel
 
-- Code developed at Dining Alliance to facilitate data-entry
+- Code developed at Dining Alliance to facilitate data-entry into multiple cloud based systems
   - Sheet2 Code https://github.com/RayNieva/binSnippets/blob/master/Sheet2Code.vb
+
 
 
 Python - Inspiration from the Automate The Boring Stuff https://automatetheboringstuff.com/
 
 - https://github.com/RayNieva/binSnippets/blob/master/mcb.bat
 - https://github.com/RayNieva/binSnippets/blob/master/mcb.pyw
+
+Cloud Based - https://en.wikipedia.org/wiki/Pastebin
 - Also Pastebin in action! https://pastebin.com/7TNHrD3T
+
+
+
