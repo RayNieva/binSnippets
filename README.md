@@ -31,3 +31,6 @@ VBA - Built in MS Office in particular Excel
 
 
 Python - Inspiration from the Automate The Boring Stuff https://automatetheboringstuff.com/
+
+- https://github.com/RayNieva/binSnippets/blob/master/mcb.bat
+- https://github.com/RayNieva/binSnippets/blob/master/mcb.pyw
