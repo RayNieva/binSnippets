@@ -31,7 +31,9 @@ VBA - Built in MS Office in particular Excel
 - Code developed at Dining Alliance to facilitate data-entry into multiple cloud based systems
   - Sheet2 Code https://github.com/RayNieva/binSnippets/blob/master/Sheet2Code.vb
 
+**A Solution Used At DA to _Automate_ Data Entry for Onboarding Employees using the Above _VBA/Ruby/Ditto-SQLite_ technologies**
 
+![Basic Workflow](https://github.com/RayNieva/OrgWindowsDesktop/blob/master/BasicConceptofWorkflow.png)
 
 Python - Inspiration from the Automate The Boring Stuff https://automatetheboringstuff.com/
 
